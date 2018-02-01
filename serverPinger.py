@@ -1,3 +1,9 @@
+"""
+Walid Sodki
+Python 3.5
+
+"""
+
 import os #os is used for the ping
 
 f2p_list = [1, 8, 16, 26, 35, 81, 82, 83, 84, 85, 93, 94] #list of all the F2P servers
