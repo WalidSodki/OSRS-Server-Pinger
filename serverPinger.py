@@ -1,7 +1,8 @@
 """
 Walid Sodki
 Python 3.5
-
+OSRS-Server-Pinger
+MIT License
 """
 
 import os #os is used for the ping
